@@ -11,30 +11,28 @@
   10. Limitations
 
 # Introduction
-  1. Craiglist is a classified advertisement site with sections for community, housing, jobs, sales, and services.
+  1. Craigslist is a classified advertisement site with sections for community, housing, jobs, sales, and services.
   2. Often there is misclassification of products across sections, especially in the Computers category.
   3. This can lead to a discouraging user experience and engagement on the website.
   4. There lies an opporunity for enhancing customer satisfaction and business performance.
   5. Intention is to solve the issue by employing advanced modeling techniques to quickly identify and accurately recategorize misclassified products, improving browsing experience.
 
 # Objective
- 1. Even though Craiglist is one of the biggest adverstising website, there are potential problems faced by users. One such problem is to find appropriate product on the computer section. Certain product that should be under computer parts section are present     under the computer section.
+ 1. Even though Craigslist is one of the biggest adverstising website, there are potential problems faced by users. One such problem is to find appropriate product on the computer section. Certain product that should be under computer parts section are present under the computer section.
  2. The motivation is to use the unstructured data and recategorize the product into pre-defined existing categories.
 
 # Methodology
- 1. Scrap the exisitng product on the website using BeautifulSoup and Selenium.
- 2. Assign tag to each of the product as either a computer or not-a-computer.
- 3. Cleaning and pre-processing of the data to make it usable for modelling.
- 4. Modeling
- 5. Analysis
+![image](https://github.com/khande28/NLP-Classification-on-Craigslist/assets/140965175/ab201ca6-12a7-4261-b733-0f86ac2b8849)
+
+
 
 # Data Sources
- 1. The Data has been scraped from existing computer section on the Craiglist Website.
+ 1. The data has been scraped from existing computer section on the Craigslist website.
  2. This was done for 2 cities (San Francisco and Chicago).
  3. Dataset: 4 columns and 2143 rows.
 
 # Data Dictionary
- 1. Label: Assigned by the User whether the given product is a computer or not.
+ 1. Label: Assigned by the yser whether the given product is a computer or not.
  2. Product_URL: Link for the product on the craigslist website.
  3. Content: The intext material for each of the URL.
  4. Header: Header for each of the listing.
