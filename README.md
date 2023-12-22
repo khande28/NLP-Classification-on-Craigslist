@@ -24,8 +24,6 @@
 # Methodology
 ![image](https://github.com/khande28/NLP-Classification-on-Craigslist/assets/140965175/ab201ca6-12a7-4261-b733-0f86ac2b8849)
 
-
-
 # Data Sources
  1. The data has been scraped from existing computer section on the Craigslist website.
  2. This was done for 2 cities (San Francisco and Chicago).
@@ -64,7 +62,7 @@
 
 # Results
 
-# Limitations:
+# Limitations
  1. Manual labelling of input data is a cumbersome process.
  2. To enhance the predictability of the model, more input data can be used.
  3. The process is limited to text analysis but can be extended to image-processing as well.
