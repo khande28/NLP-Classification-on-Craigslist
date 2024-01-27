@@ -65,7 +65,8 @@
 Below is the accuracy result for all the models that were ran in the process. We can see that **Naive Bayes and CatBoost** performs slightly better than rest of the models.
 
 
-![Screenshot 2024-01-16 204605](https://github.com/khande28/NLP-Classification-on-Craigslist/assets/140965175/0a8c0c6e-b73d-49f8-8e5d-37e96ac9add4)
+![image](https://github.com/khande28/NLP-Classification-on-Craigslist/assets/140965175/aa2192ca-cd46-4166-adfd-cd43cc9baf6a)
+
 
 # Limitations
  1. Manual labelling of input data is a cumbersome process.
