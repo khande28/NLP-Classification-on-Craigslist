@@ -1,4 +1,4 @@
-# Improving categorization on Craigslist
+# Classifying Craigslist Ads to Enhance User Experience
   1. Introduction
   2. Objective
   3. Methodology
